@@ -1,0 +1,11 @@
+.cv{
+    height: inherit;
+    width: calc(50vw - 4em);
+    padding:  2em;
+}
+
+.name{
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
