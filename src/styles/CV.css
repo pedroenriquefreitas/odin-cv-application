@@ -9,3 +9,8 @@
     text-align: center;
     font-weight: bold;
 }
+
+section > p {
+    padding-top: 1vh;
+    font-size: 2vh;
+}
